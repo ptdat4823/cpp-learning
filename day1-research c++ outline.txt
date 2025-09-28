@@ -1,0 +1,12 @@
+IDE: là một ứng dụng phần mềm hỗ trợ lập trình viên phát triển mã phần mềm, tăng năng suất bằng cách kết hợp các tính năng chỉnh sửa, xây dựng, kiểm thử và đóng gói phần mềm vào trong một ứng dụng dễ sử dụng
+
+unsigned <data type> : lấy giá trị không âm
+
+ví dụ minh họa : int( -100 -> 100 )
+unsinged int ( 0 -> 200 )
+
+overflow: 
+ví dụ: int: max là 100. nếu +1 -> -101 (cách nhớ: tính toán rồi thêm dấu "-")
+	    min là -100. Nếu -1 -> 99 	(cách nhớ: bỏ dấu " - " rồi tính toán)
+unsinged int: max là 200. Nếu +1 -> 0 (cách nhớ: giống đồng hồ nếu vượt qua 12 thì về 0  
+		min là 0. Nếu -1 -> 200  và ngược lại)
