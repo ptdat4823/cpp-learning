@@ -2,7 +2,7 @@ IDE: là một ứng dụng phần mềm hỗ trợ lập trình viên phát tri
 
 unsigned <data type> : lấy giá trị không âm
 
-ví dụ minh họa : int( -100 -> 200 )
+ví dụ minh họa : int( -200 -> 200 )
 unsinged int ( 0 -> 200 )
 
 overflow: 
